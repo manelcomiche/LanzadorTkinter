@@ -1,2 +1,2 @@
 # LanzadorAPPTkinter
-Pequeño proyecto de una Aplicación con Tkinter, y un pequeño 3enraya! (CAT VERSION)
+Petit projecte d'una Aplicació amb Tkinter, i un petit 3enraya!
