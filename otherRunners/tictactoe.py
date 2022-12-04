@@ -97,6 +97,7 @@ class TicTacToeBoard(tk.Tk):
         super().__init__()
         # Definim les variables que utilitzarem dins la nostra finestra
         self.title("3enlínia - Multijugador")
+        self.iconbitmap("assets/coet.ico")
         self._cells = {}
         self.superGame = joc
         self._creemMenu()
