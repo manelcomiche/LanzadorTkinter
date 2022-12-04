@@ -7,6 +7,9 @@ root = tk.Tk()
 root.title("Llançador ràpid d'aplicacions")
 root.geometry("720x400")
 
+# Añade los iconos de tkinter a las ve
+root.iconbitmap("assets/coet.ico")
+
 # Li posem una imatge al fons i la situem al mig
 imatgeFons = tk.PhotoImage(file="assets/xp.png")
 textLabel = tk.Label(root, image=imatgeFons)
