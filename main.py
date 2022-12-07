@@ -7,7 +7,7 @@ root = tk.Tk()
 root.title("Llançador ràpid d'aplicacions")
 root.geometry("720x400")
 
-# Añade los iconos de tkinter a las ve
+# Afegim els iconos de tkinter a la finestra
 root.iconbitmap("assets/coet.ico")
 
 # Li posem una imatge al fons i la situem al mig
